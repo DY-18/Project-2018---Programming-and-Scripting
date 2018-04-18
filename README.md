@@ -10,3 +10,6 @@ Iris flower data set or Fisher's Iris data set consists of 50 samples from each 
 
 https://gist.github.com/jobliz/2903500 Iris dataset (petal size) scatterplot done in matplotlib source https://github.com/jobliz
 
+Looking for code Research 18/04/2018 https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset
+
+https://github.com/RicardsGraudins/Iris-Flower-Data-Set
