@@ -12,4 +12,6 @@ https://gist.github.com/jobliz/2903500 Iris dataset (petal size) scatterplot don
 
 Looking for code Research 18/04/2018 https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset
 
-https://github.com/RicardsGraudins/Iris-Flower-Data-Set
+https://github.com/RicardsGraudins/Iris-Flower-Data-Set 
+
+This is a good link https://www.kaggle.com/farheen28/iris-dataset-analysis-using-knn and another kaggle link https://www.kaggle.com/gilsousa/prediction-iris-dataset
