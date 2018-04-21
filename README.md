@@ -1,3 +1,5 @@
+
+
 # Project-2018 Programming-and-Scripting
 
 Project to be submitted for the module of Programming and Scripting GMIT  Higher Diploma in Data Analytics
@@ -15,3 +17,17 @@ Looking for code Research 18/04/2018 https://stackoverflow.com/questions/4586222
 https://github.com/RicardsGraudins/Iris-Flower-Data-Set 
 
 This is a good link https://www.kaggle.com/farheen28/iris-dataset-analysis-using-knn and another kaggle link https://www.kaggle.com/gilsousa/prediction-iris-dataset
+import matplotlib.pyplot as pl
+
+#setting figure size
+pl.rcParams['figure.figsize'] = (16, 8)
+#plotting scatter diagram using sepal length and sepal width
+pl.scatter(sepalLength, sepalWidth, marker='.')
+
+#setting title and labels
+pl.title('Scatter Diagram Representing Sepal Width & Sepal Length', fontsize=20)
+pl.xlabel('Sepal Length', fontsize=12)
+pl.ylabel('Sepal Width', fontsize=12)
+
+#displaying the diagram
+pl.show()
