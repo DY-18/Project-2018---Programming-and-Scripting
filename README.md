@@ -20,4 +20,6 @@ https://github.com/RicardsGraudins/Iris-Flower-Data-Set
 
 This is a good link https://www.kaggle.com/farheen28/iris-dataset-analysis-using-knn and another kaggle link https://www.kaggle.com/gilsousa/prediction-iris-dataset
 
+course video https://web.microsoftstream.com/video/f0788c1c-c7bd-4347-98ac-477186938ed7 matplotlib pyplot
+
 ## 03 Dowload the data set,libaries to investigate and calculate the minimium, maximium and mean of each column using a Python script##
