@@ -11,7 +11,10 @@ It is an example of the use  [multivariate statistics](https://en.wikipedia.org/
 
 Iris flower data set or Fisher's Iris data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres. Based on the combination of these four features, Fisher developed a linear discriminant model to distinguish the species from each other.
 
-## References used whilst researching for this project ##
+
+
+## 03 Dowload the data set,libaries to investigate and calculate the minimium, maximium and mean of each column using a Python script##
+## References ##
 https://gist.github.com/jobliz/2903500 Iris dataset (petal size) scatterplot done in matplotlib source https://github.com/jobliz
 
 Looking for code Research 18/04/2018 https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset
@@ -23,5 +26,3 @@ This is a good link https://www.kaggle.com/farheen28/iris-dataset-analysis-using
 course video https://web.microsoftstream.com/video/f0788c1c-c7bd-4347-98ac-477186938ed7 matplotlib pyplot
 
 https://pandas.pydata.org/pandas-docs/stable/basics.html#basics and https://pandas.pydata.org/pandas-docs/stable/10min.html Pandas basic to tabulate Iris csv
-
-## 03 Dowload the data set,libaries to investigate and calculate the minimium, maximium and mean of each column using a Python script##
