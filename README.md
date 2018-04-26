@@ -17,6 +17,8 @@ https://en.wikipedia.org/wiki/Iris_flower_data_set
 
 https://en.wikipedia.org/wiki/Multivariate_statistics)   
 
+https://archive.ics.uci.edu/ml/index.html
+
 https://gist.github.com/jobliz/2903500
 
 https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset 
@@ -34,7 +36,7 @@ https://pandas.pydata.org/pandas-docs/stable/10min.html
 
 ## 3. Download the data set ##
 
-This dataset was downloaded from the Machine Learning Repository from the Center Machine Learning and Intelligent Systems at UCI (University of California, Irvine) United States https://archive.ics.uci.edu/ml/index.html. The python script used to investigate the data set can be viewed (here)[insert link to py].
+This dataset was downloaded from the Machine Learning Repository from the Center Machine Learning and Intelligent Systems at UCI (University of California, Irvine) United States which can be accessed [here](https://archive.ics.uci.edu/ml/index.html). The python script used to investigate the data set can be viewed [here](https://github.com/DY-18/Project-2018---Programming-and-Scripting/blob/master/Project2018.py).
 
 ## 4. Summary of data set - Script used to calculate maximium, minimium and mean of each column ##
 Talk about using various sources to find suitable examples of python scripts, in order to plan and write a suitable script.
