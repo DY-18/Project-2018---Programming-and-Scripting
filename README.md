@@ -1,3 +1,4 @@
+
 # Project-2018 Programming-and-Scripting
 
 This project is to be submitted for the module of Programming and Scripting GMIT  Higher Diploma in Data Analytics 2018
@@ -14,15 +15,14 @@ Iris flower data set or Fisher's Iris data set consists of 50 samples from each 
 
 
 ## 03 Dowload the data set,libaries to investigate and calculate the minimium, maximium and mean of each column using a Python script##
+
 ## References ##
-https://gist.github.com/jobliz/2903500 Iris dataset (petal size) scatterplot done in matplotlib source https://github.com/jobliz
 
-Looking for code Research 18/04/2018 https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset
-
+https://gist.github.com/jobliz/2903500 
+https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset
 https://github.com/RicardsGraudins/Iris-Flower-Data-Set 
-
-This is a good link https://www.kaggle.com/farheen28/iris-dataset-analysis-using-knn and another kaggle link https://www.kaggle.com/gilsousa/prediction-iris-dataset
-
-course video https://web.microsoftstream.com/video/f0788c1c-c7bd-4347-98ac-477186938ed7 matplotlib pyplot
-
-https://pandas.pydata.org/pandas-docs/stable/basics.html#basics and https://pandas.pydata.org/pandas-docs/stable/10min.html Pandas basic to tabulate Iris csv
+https://www.kaggle.com/farheen28/iris-dataset-analysis-using-knn
+https://www.kaggle.com/gilsousa/prediction-iris-dataset
+https://web.microsoftstream.com/video/f0788c1c-c7bd-4347-98ac-477186938ed7 matplotlib pyplot course video
+https://pandas.pydata.org/pandas-docs/stable/basics.html#basics
+https://pandas.pydata.org/pandas-docs/stable/10min.html Pandas basic to tabulate Iris csv
