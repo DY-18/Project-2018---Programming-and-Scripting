@@ -5,9 +5,11 @@ Talk about the plan on how to tackle this project.
 
 ## 1. Research into Fisher's Iris dataset ##
 
-Introduced by the British statistician and biologist Ronald Fisher in his 1936 paper * The use of multiple measurements in taxonomic problems* as an example of linear discriminant analysis.![Ronald Fisher](R._A._Fischer.jpg)[https://github.com/DY-18/Project-2018---Programming-and-Scripting/blob/master/R._A._Fischer.jpg]
+Introduced by the British statistician and biologist Ronald Fisher in his 1936 paper * The use of multiple measurements in taxonomic problems* as an example of linear discriminant analysis.It is an example of the use  [multivariate statistics], which is a subdivision of statistics encompassing the simultaneous observation and analysis of more than one outcome variable.
 
-It is an example of the use  [multivariate statistics], which is a subdivision of statistics encompassing the simultaneous observation and analysis of more than one outcome variable. 
+!(Ronald Fisher)[https://github.com/DY-18/Project-2018---Programming-and-Scripting/blob/master/R._A._Fischer.jpg]
+
+ 
 
 Iris flower data set or Fisher's Iris data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres. Based on the combination of these four features, Fisher developed a linear discriminant model to distinguish the species from each other.
 
