@@ -45,10 +45,3 @@ use snipping tool - tabulate
 
 ## 6. Supporting tables and graphics ##
 
-
-
-
-
-## 03 Dowload the data set,libaries to investigate and calculate the minimium, maximium and mean of each column using a Python script##
-
-
