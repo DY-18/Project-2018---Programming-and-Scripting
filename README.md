@@ -50,14 +50,13 @@ The mean, maximium and minimium for each column was calculated (see below for sc
 
 ## 6. Supporting tables and graphics ##
 
-Screenshot of installation of Tabulate module onto PC
 ![Install Tabulate](Installed tabulate module.PNG)[Screenshot of Tabulate Install](https://github.com/DY-18/Project-2018---Programming-and-Scripting/blob/master/Installed%20tabulate%20module.PNG)
 
-Screenshot of Mean, Min and max of four columns
+
 ![Output of python script](Avg_Max_Min-fourcolumns.PNG)[Screenshot of Output of python script](https://github.com/DY-18/Project-2018---Programming-and-Scripting/blob/master/Avg_Max_Min-fourcolumns.PNG)
 
-Screenshot of import tabulate into Ipython
+
 ![Import tabulate](import tabulate from installed tabulate module.PNG)[Screenshot of import of tabulate module](https://github.com/DY-18/Project-2018---Programming-and-Scripting/blob/master/import%20tabulate%20from%20installed%20tabulate%20module.PNG)
 
-Screenshot of Syntax errors
+
 ![Syntax errors](Tabulate invalid syntax error.PNG)[Screenshot of Syntax errors](https://github.com/DY-18/Project-2018---Programming-and-Scripting/blob/master/Tabulate%20invalid%20syntax%20error.PNG)
