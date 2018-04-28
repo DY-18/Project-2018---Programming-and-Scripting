@@ -1,6 +1,6 @@
 # Project-2018 Programming-and-Scripting
 
-This project is to be submitted for the module of Programming and Scripting GMIT  Higher Diploma in Data Analytics 2018. 
+This project is to be submitted for the module of Programming and Scripting GMIT  Higher Diploma in Data Analytics 2018. The project plan can be found [here](https://github.com/DY-18/Project-2018---Programming-and-Scripting/blob/master/Project%20Plan.md).
 
 ## 1. Introduction - Research into Fisher's Iris dataset ##
 
