@@ -1,4 +1,10 @@
-# Darren Young, 2018-04-23 -  Iris Dataset analysis - Calculate the maximium, minimium and mean of each column
+###################################
+## Darren Young, 2018-04-23  ######
+## Iris Dataset analysis     ######
+## Calculate the maximium,   ######
+## minimium and mean of      ######
+## each column               ######
+###################################
 
 # Import numpy library
 
