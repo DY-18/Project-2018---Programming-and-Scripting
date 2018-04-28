@@ -50,5 +50,5 @@ The mean, maximium and minimium for each column was calculated (see below for sc
 
 ## 6. Supporting tables and graphics ##
 
-![Tabulate Install](Installed tabulate module.PNG)[Screenshot of Tabulate Install](https://github.com/DY-18/Project-2018---Programming-and-Scripting/blob/master/Installed%20tabulate%20module.PNG)
+![Screenshot of Tabulate Install](https://github.com/DY-18/Project-2018---Programming-and-Scripting/blob/master/Installed%20tabulate%20module.PNG)
 
