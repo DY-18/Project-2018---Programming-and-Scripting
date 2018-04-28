@@ -1,7 +1,5 @@
 ## Project Plan ##
 
-# The project was divided into a number of tasks to be completed: #
-
 1. The student will use existing course notes from the module along with external sources for research into this project to gain gain better understanding of the objectives needed for this project.
 2. From this research, the student will have gained an understanding of how to plan this project. 
 3. The main objective is locate and download the chosen file, 
