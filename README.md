@@ -53,3 +53,9 @@ The mean, maximium and minimium for each column was calculated (see below for sc
 ![Screenshot of Tabulate Install](https://github.com/DY-18/Project-2018---Programming-and-Scripting/blob/master/Installed%20tabulate%20module.PNG)
 
 ![Output of python script](Avg_Max_Min-fourcolumns.PNG)[Screenshot of Output of python script](https://github.com/DY-18/Project-2018---Programming-and-Scripting/blob/master/Avg_Max_Min-fourcolumns.PNG)
+
+![Import tabulate](import tabulate from installed tabulate module.PNG)[Screenshot of import of tabulate module](https://github.com/DY-18/Project-2018---Programming-and-Scripting/blob/master/import%20tabulate%20from%20installed%20tabulate%20module.PNG)
+
+
+![Syntax errors](Tabulate invalid syntax error.PNG)[Screenshot of Syntax errors](https://github.com/DY-18/Project-2018---Programming-and-Scripting/blob/master/Tabulate%20invalid%20syntax%20error.PNG)
+
