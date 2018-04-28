@@ -58,4 +58,3 @@ The mean, maximium and minimium for each column was calculated (see below for sc
 
 
 ![Syntax errors](Tabulate invalid syntax error.PNG)[Screenshot of Syntax errors](https://github.com/DY-18/Project-2018---Programming-and-Scripting/blob/master/Tabulate%20invalid%20syntax%20error.PNG)
-
