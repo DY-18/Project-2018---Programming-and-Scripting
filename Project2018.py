@@ -6,9 +6,10 @@
 ## each column               ######
 ###################################
 
-# Import numpy library
-
+# Import libraries
+import pandas
 import numpy
+import tabulate
 
 # read datafile into array
 
@@ -24,10 +25,11 @@ minfirstcol=numpy.min(data[:,0])
 # Print to screen the mean, max and min values of the first column
 
 print ("Average of first column:",meanfirstcol)
-print ("Maximium of first column:",meanfirstcol)
-print ("Minimium of first column:",meanfirstcol)
+print ("Maximium of first column:",maxfirstcol)
+print ("Minimium of first column:",minfirstcol)
 
-# To calulate for the second colum, repeat above but change the 0 to 1 
+
+# To calulate for the second colum, define the second column and calculate the mean, max and min from the array
 
 secondcol=data[:,1]
 meansecondcol=numpy.mean(data[:,1])
@@ -40,7 +42,7 @@ print ("Average of second column:",meansecondcol)
 print ("Maximium of second column:",maxsecondcol)
 print ("Minimium of second column:",minsecondcol)
 
-#  To calulate for the third column, repeat above but change the 1 to 2
+#  To calulate for the third column,  define the third column and calculate the mean, max and min from the array
 
 thirdcol=data[:,2]
 meanthirdcol=numpy.mean(data[:,2])
@@ -53,7 +55,7 @@ print ("Average of third column:",meanthirdcol)
 print ("Maximium of third column:",maxthirdcol)
 print ("Minimium of third column:",minthirdcol)
 
-#  To calulate for the fourth column, repeat above but change the 2 to 3
+#  To calulate for the fourth column, define the fourth column and calculate the mean, max and min from the array
 
 fourthcol=data[:,3]
 meanfourthcol=numpy.mean(data[:,3])
