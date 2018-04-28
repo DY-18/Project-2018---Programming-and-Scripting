@@ -2,9 +2,7 @@
 
 This project is to be submitted for the module of Programming and Scripting GMIT  Higher Diploma in Data Analytics 2018. 
 
-The student will use existing course notes from the module along with external sources for research into this project. From this research, the student will have gained an understanding of how to plan this project. The objective is locate and download the chosen file, apply python scripts in order to calculate the maximium, minimium and mean of each column of data. The python scripts written will be executed in Visual Studio Code in combination with I Python. Discussion and conclusion will determine if the objective of the project was met.
-
-## 1. Research into Fisher's Iris dataset ##
+## 1. Introduction - Research into Fisher's Iris dataset ##
 
 Introduced by the British statistician and biologist Ronald Fisher in his 1936 paper * The use of multiple measurements in taxonomic problems* as an example of linear discriminant analysis.It is an example of the use  [multivariate statistics], which is a subdivision of statistics encompassing the simultaneous observation and analysis of more than one outcome variable.
 
